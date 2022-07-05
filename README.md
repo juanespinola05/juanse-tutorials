@@ -2,4 +2,4 @@
 ### Super quickly made and hard coded page for tutorials
 In progress...
 
-Deployed at: [https://tutorials.juanse.dev](tutorials.juanse.dev)
+Deployed at: [tutorials.juanse.dev](https://tutorials.juanse.dev)
