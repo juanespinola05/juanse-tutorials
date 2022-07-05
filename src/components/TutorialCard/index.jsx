@@ -4,7 +4,6 @@ import Tag from '../Tag'
 import { H3, P } from './cardStyle'
 
 const TutorialCard = ({ path, title, description, tags }) => {
-  console.log(path)
   return (
     <Link to={path}>
       <Floating>
