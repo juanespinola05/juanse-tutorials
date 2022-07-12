@@ -31,6 +31,8 @@ const rinfo = () => {
       <p>A continuación ejecutaremos el programa con java utilizando el comando: <b>java -jar r-Info_2.9.jar</b></p>
       <br />
       <p>Y ya podemos usar R-Info!</p>
+      <br />
+      <p>Descargar código base: <a target='_blank' href='https://drive.google.com/file/d/1xqiprhcgOLgMrzRMl06w6n1OO_hTXpQ0/view?usp=sharing' download rel='noreferrer'>Descargar</a></p>
     </>
   )
 }
